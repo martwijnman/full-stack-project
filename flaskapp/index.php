@@ -11,16 +11,7 @@
     
         <div class="full">
             <div class="all">
-    <header>
-        <h1>
-            lorem
-        </h1>
-        <nav>
-            <a href="">lorem</a>
-            <a href="">ipsum</a>
-            <a href="">genki</a>
-        </nav>
-    </header>
+   
     <main>
       
 <div class="form">
@@ -38,19 +29,14 @@
             <div class="oneofthem">
                     <label for="name">EMAIL</label>
                     <input class="superX" type="textarea" name="email">
+                    <input type="submit" name="submit" id="submit" value="submit">
             
 </div>
-<input type="submit" name="submit" id="submit" value="submit">
+
 </div>
 </div>
     </main>
-    <footer>
-<nav>
-    <a href="">lorem</a>
-    <a href="">ipsum</a>
-    <a href="">genki</a>
-</nav>
-    </footer>
+   
     </div>
 </body>
 </div>
