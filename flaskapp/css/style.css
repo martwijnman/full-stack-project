@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.full{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.wrapper{
+    background-image: url("nature.jpg");
+    padding: 25%;
+}
+
+.all{
+    width: 500px;
+    height: 250px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#contact{
+    display: flex;
+    padding: 15%;
+    justify-content: center;
+    align-items: center;
+}
+.twin{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    color: white;
+}
+#test{
+    color: white;
+}
+.twin p{
+    font-size: medium;
+    color: white;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+}
+form{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+form .oneofthem{
+    display: flex;
+    flex-direction: column;
+    margin: 2%;
+}
+form .superX{
+    border: 2px solid white;
+    background-color: rgb(0, 0, 0, 0);
+    height: 50px;
+    margin: 2%;
+}
+form .superX2{
+    border: 2px solid white;
+    background-color: rgb(0, 0, 0, 0);
+    height: 150px;
+}
+form .superXYXXL{
+    display: flex;
+    flex-direction: column;
+    margin: 2%;
+}
